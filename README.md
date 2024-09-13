@@ -1,10 +1,10 @@
 # Customer-Segmentation-for-E-Commerce-using-K-Means-Clustering
 Performed customer segmentation on an e-commerce dataset, which includes information such as age, annual income, and spending score.
 
-Objective:
+# Objective:
 The goal of the project is to perform customer segmentation on an e-commerce dataset, which includes information such as age, annual income, and spending score. This type of segmentation helps businesses better understand customer behavior and tailor marketing strategies accordingly.
 
-Key Steps Involved:
+# Key Steps Involved:
 Data Collection and Preprocessing:
 
 The dataset (e.g., mall_customers.csv) includes customer details such as age, gender, annual income, and spending score.
@@ -17,7 +17,7 @@ Visualization:
 
 The distribution of features such as annual income and spending score is visualized using seaborn and matplotlib to identify patterns in customer behavior.
 KDE plots are employed to observe how income and age distributions vary between male and female customers.
-Technologies:
+# Technologies:
 Pandas: For data manipulation and analysis.
 Seaborn/Matplotlib: For data visualization.
 Scikit-learn: For implementing the K-Means clustering algorithm.
