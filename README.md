@@ -22,3 +22,5 @@ Pandas: For data manipulation and analysis.
 Seaborn/Matplotlib: For data visualization.
 Scikit-learn: For implementing the K-Means clustering algorithm.
 This project demonstrates the application of clustering techniques to segment customers, which is crucial for businesses aiming to personalize marketing efforts and optimize customer satisfaction.
+# Conclusion :
+This project successfully applied K-Means Clustering to segment e-commerce customers based on purchasing behaviors. The model identified distinct customer groups, enabling targeted marketing and personalized promotions. By leveraging these insights, e-commerce businesses can enhance customer satisfaction, loyalty, and resource allocation. This project demonstrates how data-driven segmentation can optimize business strategies and improve customer engagement.
