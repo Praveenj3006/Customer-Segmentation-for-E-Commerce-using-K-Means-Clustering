@@ -1,5 +1,5 @@
 # Customer-Segmentation-for-E-Commerce-using-K-Means-Clustering
-To perform customer segmentation on an e-commerce dataset, which includes information such as age, annual income, and spending score.
+Performed customer segmentation on an e-commerce dataset, which includes information such as age, annual income, and spending score.
 
 Objective:
 The goal of the project is to perform customer segmentation on an e-commerce dataset, which includes information such as age, annual income, and spending score. This type of segmentation helps businesses better understand customer behavior and tailor marketing strategies accordingly.
